@@ -1,0 +1,15 @@
+$text_color : black;
+$link_color : blue;
+a {
+  color : $link_color;
+  text-align: center;
+  font: 15px arial, sans-serif;
+}
+
+nav table {
+    background-color: blue;
+    margin: 30px;
+    padding: 20px;
+    border: 3px solid blue;
+
+}
